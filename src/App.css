@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+.site-layout-sub-header-background {
+    background: #fff;
+}
+
+.site-layout-background {
+    background: #fff;
+}
